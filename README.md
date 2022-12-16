@@ -4,6 +4,9 @@ It is a site created with Frontend Mentor course. I did a lot of things here by 
 * SASS
 * JS
 
+# Visit me!
+https://kvbidsg.github.io/Space-Tourism-Website/
+
 # That's how it look on desktop:
 
 ![desktop-screenshot](https://user-images.githubusercontent.com/112346467/208084111-3fa5ff08-5b56-4d7f-8dd7-d74fc1243214.png)
